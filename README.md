@@ -7,6 +7,7 @@ This project is a game where the **Dragon** keeps attacking the **Dino** and Din
 The Dino can **move Up, Left and Right**. For every succesful rescue, **score updates**.
 
 ### Additions from my side:
+
  #### 1. Buttons to start the game, moving the Dino. 
  #### 2. Better CSS
  #### 3. Instructions text, Fav icon
