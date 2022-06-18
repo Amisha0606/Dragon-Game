@@ -11,3 +11,6 @@ The Dino can **move Up, Left and Right**. For every succesful rescue, **score up
  #### 1. Buttons to start the game, moving the Dino. 
  #### 2. Better CSS
  #### 3. Instructions text, Fav icon
+
+
+### Link for the website: [https://dragon-game-by-amisha.netlify.app/ ](https://dragon-game-by-amisha.netlify.app/)
